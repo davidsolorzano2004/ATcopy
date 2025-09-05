@@ -1,7 +1,7 @@
 #include <Wire.h>
 #define SLAVE_ADDR 1
 
-byte pin[] = {2, 3, 4, 5, 6};
+byte pin[] = {2, 3, 4, 5, 6};//Cambio Sara Machado
 byte estado = 0;
 
 const int ledMaestro = 2; // LED local (pin 13 del Arduino)
