@@ -15,7 +15,7 @@ void setup() {
 void loop() {
 
   delay(1000); //CORREGIDO DAVID SOLORZANO
-
+  print("Unsaludo")
 }
 
 int ultimoPin = -1;
