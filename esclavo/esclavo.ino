@@ -13,7 +13,9 @@ void setup() {
 }
 
 void loop() {
+
   delay(1000);
+
 }
 
 int ultimoPin = -1;
